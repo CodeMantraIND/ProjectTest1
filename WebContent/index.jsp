@@ -7,6 +7,22 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ <center>
+ <h1>Login Form</h1>
+ <form action="">
+  <input >
+  
+ </form>
+ </center>
+ 
+ 
 </body>
+ <center>
+ <h1>Login Form</h1>
+ <form action="">
+  <input >
+  
+ </form>
+ </center>
+
 </html>
