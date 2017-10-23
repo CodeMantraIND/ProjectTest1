@@ -25,4 +25,26 @@
  </form>
  </center>
 
+
+ <center>
+ <h1>Login Form</h1>
+ <form action="">
+  <input >
+  
+ </form>
+ </center>
+  <center>
+ <h1>Login Form</h1>
+ <form action="">
+  <input >
+  
+ </form>
+ </center>
+  <center>
+ <h1>Login Form</h1>
+ <form action="">
+  <input >
+  
+ </form>
+ </center>
 </html>
